@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="nav_book">My Book</string>
+    <string name="nav_store">Book Store</string>
+    <string name="nav_market">Market</string>
+    <string name="nav_setting">Setting</string>
+    <string name="menu_about">About</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="no_network">Failure load,tap to refresh</string>
+    <string name="goto_amazon">GoTO_Amazon</string>
+    <string name="query_book">Query Book</string>
+    <string name="clear_database">Clear DataBase</string>
+    <string name="exit_point">Press again for exit</string>
+    <string name="author">author : tong.zhang</string>
+    <string name="version">version : 1.0v</string>
+
+    <string name="get_contact">Get contacts</string>
+</resources>
